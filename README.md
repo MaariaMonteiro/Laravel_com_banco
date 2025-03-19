@@ -1,2 +1,2 @@
 # Laravel_com_banco
-Aplicando um CRUD em laravel, com produtos.
+Nesse repositório temos um site em laravel com um CRUD de um site para uma loja de produtos, integrada com banco de dados.
